@@ -15,7 +15,8 @@
 13. 9. Connect via terminal
 14.  sudo ssh root@<ip> 
 15. Install Tomcat using below step's
-16. Go to <ip>/manager.html
+16. Go to <ip>/manager/html
+17. Enter username and password as admin
 ```
 
 ## Tomact 8.5 Installation
