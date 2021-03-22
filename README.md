@@ -15,5 +15,13 @@
 13. 9. Connect via terminal
 14.  sudo ssh root@<ip> 
 15. sudo apt install openjdk-11-jdk-headless
-16. sudo apt install maven tomcat8
+16. java -version
+17. 
+18. 
+```
+
+## Reference Links
+
+```
+http://youtube.com/watch?v=sLyxKcO37HY
 ```
