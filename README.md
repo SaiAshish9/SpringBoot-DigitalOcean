@@ -17,6 +17,10 @@
 15. Install Tomcat using below step's
 16. Go to <ip>/manager/html
 17. Enter username and password as admin
+18. Add 	<packaging>war</packaging> to pom.xml inside spring boot application
+19. Right click on project > Run As > Maven Install
+20. war file will be generated inside target directory
+21. Go to <ip>:8081
 ```
 
 ## Tomact 8.5 Installation
@@ -27,6 +31,7 @@ cd 5ec3dec5810ea50192578018d18673cd
 chmod +x tomcat-setup.sh
 ./tomcat-setup.sh
 ```
+
 
 
 ## Reference Links
