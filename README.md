@@ -14,8 +14,8 @@
 12. exit
 13. 9. Connect via terminal
 14.  sudo ssh root@<ip> 
-15. sudo apt install openjdk-11-jdk-headless
-16. java -version
+15. Install Tomcat using below step's
+16. Go to <ip>/manager.html
 ```
 
 ## Tomact 8.5 Installation
