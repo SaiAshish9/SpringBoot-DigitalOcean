@@ -16,9 +16,22 @@
 14.  sudo ssh root@<ip> 
 15. sudo apt install openjdk-11-jdk-headless
 16. java -version
-17. 
-18. 
 ```
+
+## Tomact 8.5 Installation
+
+```
+sudo apt-get update
+sudo apt-get install software-properties-common
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+sudo apt-get install tomact8 tomact8-docs tomcat8-admin tomcat8-examples
+service tomcat8 stop
+service tomcat8 start
+service tomcat8 restart
+```
+
 
 ## Reference Links
 
