@@ -7,4 +7,10 @@
 5. Resources -> Droplet(1) -> ... -> Access Console
 6. login -> 
 7. username : root , password : XYZ
+8. Connect via terminal
+9.  sudo ssh root@<ip> 
+10. Enter Password : XYZ
+11. sudo apt update
+12. sudo apt upgrade
+13. Install the package maintainer's version
 ```
