@@ -23,7 +23,7 @@
 ```
 git clone https://gist.github.com/SaiAshish9/5ec3dec5810ea50192578018d18673cd
 cd 5ec3dec5810ea50192578018d18673cd
-chmod +x tomcat-installation.sh
+chmod +x tomcat-setup.sh
 ./tomcat-setup.sh
 ```
 
