@@ -21,15 +21,10 @@
 ## Tomact 8.5 Installation
 
 ```
-sudo apt-get update
-sudo apt-get install software-properties-common
-sudo add-apt-repository ppa:webupd8team/java
-sudo apt-get update
-sudo apt-get install oracle-java8-installer
-sudo apt-get install tomact8 tomact8-docs tomcat8-admin tomcat8-examples
-service tomcat8 stop
-service tomcat8 start
-service tomcat8 restart
+git clone https://gist.github.com/f15ac79923b6c1b8114aade8ee3eafc1.git
+cd f15ac79923b6c1b8114aade8ee3eafc1
+chmod +x tomcat-installation.sh
+./tomcat-setup.sh
 ```
 
 
